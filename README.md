@@ -69,17 +69,17 @@ Hệ thống **quản lý thư viện trường đại học** được xây d�
 
 ## **Trang đăng nhập hệ thống**
 <p align="center">
-  <img src="img/login_library.png" width="700">
+  <img src="imgGit/login_library.png" width="700">
 </p>
 
 ## **Trang quản lý sách (Dashboard Admin)**
 <p align="center">
-  <img src="img/admin_library.png" width="700">
+  <img src="imgGit/admin_library.png" width="700">
 </p>
 
 ## **Trang thư viện dành cho người dùng (User)**
 <p align="center">
-  <img src="img/user_library.png" width="700">
+  <img src="imgGit/user_library.png" width="700">
 </p>
 
 ---
